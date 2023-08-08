@@ -2,9 +2,6 @@ title: Quescode-Saurabh's blog
 description: Dive into the world of system design, coding patterns, and software architecture
 theme: just-the-docs
 
-url: https://sobby01.github.io/saurabhsingh.github.io
+url: https://sobby01.github.io
 
 permalink: pretty
-
-plugins:
-  - jekyll-default-layout
