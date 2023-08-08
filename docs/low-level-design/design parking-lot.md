@@ -1,7 +1,8 @@
 ---
 title: Design parking lot
-layout: default
 parent: Low Level Design
+nav_order: 3.1
+layout: default
 ---
 
 # Layout

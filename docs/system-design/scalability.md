@@ -1,8 +1,8 @@
 ---
-title: BitManipulation
-parent: Coding Patterns
-nav_order: 2.1
+title: Scalability
+parent: System Design
 layout: default
+nav_order: 4.1
 ---
 
 # Layout
