@@ -6,7 +6,12 @@ description: Exploring System Design, Low-Level Design, and Coding Patterns
 permalink: /
 ---
 
-# Welcome to Quescode'
+**Hello**, <span style="color: yellow; font-weight: bold;">I am Saurabh.</span>
+
+I am a software architect with a specialization in cloud technologies. With a passion for problem-solving, distributed systems and AI enthusiast. 
+I strongly advocate for clean code to create maintainable and scalable software solutions.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/sobby01/) to learn more about my professional journey and interests.
 
 Explore the realms of software design and coding with insightful articles on system design, low-level design principles, and coding patterns. Whether you're a beginner or an experienced developer, you'll find valuable content to enhance your skills and broaden your knowledge.
 
