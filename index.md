@@ -1,32 +1,45 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: Exploring System Design, Low-Level Design, and Coding Patterns
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to Quescode'
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Explore the realms of software design and coding with insightful articles on system design, low-level design principles, and coding patterns. Whether you're a beginner or an experienced developer, you'll find valuable content to enhance your skills and broaden your knowledge.
 
-More specifically, the created site:
+## System Design Basics
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Delve into the fundamentals of system design and gain a deep understanding of key concepts:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- Scalability, Reliability, and Fault Tolerance
+- The CAP Theorem: Consistency, Availability, Partition Tolerance
+- Transactions and Concurrency Control
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Low-Level Design Insights
 
-To get started with creating a site, just click "[use this template]"!
+Uncover the intricacies of low-level design, focusing on building robust software with solid architectural principles:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- SOLID Principles: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+- Designing Efficient Parking Lot System, Design twitter, Handle Concurrency
 
-----
+## Mastering Coding Patterns
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Enhance your coding skills by learning tried-and-true coding patterns and techniques:
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- Bit Manipulation: Leveraging Binary Manipulation for Efficient Algorithms
+- Dynamic Programming: Solving Complex Problems with Recursive Techniques
+
+Each section contains in-depth articles that break down complex topics into digestible pieces. Ready to dive in? Select a topic that intrigues you and begin your journey towards mastery.
+
+## License and Contributions
+
+This repository is licensed under the MIT License. Feel free to explore the content, learn from it, and provide attribution if you reference it in your work. If you're interested in contributing or have suggestions, please reach out.
+
+## Acknowledgements
+
+- This repository is based on the "Just the Docs" Jekyll theme.
+
+[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue?logo=github)](https://sobby01.github.io/saurabhsingh.github.io)

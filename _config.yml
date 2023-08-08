@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Quescode-Saurabh's blog
+description: Dive into the world of system design, coding patterns, and software architecture
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sobby01.github.io/saurabhsingh.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+permalink: pretty
+
+plugins:
+  - jekyll-default-layout
