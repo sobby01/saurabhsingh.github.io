@@ -1,6 +1,6 @@
 # Quescode-Saurabh's Blog
 
-Welcome to my Jekyll-based blog! This repository uses the "Just the Docs" theme and is designed to serve as a hub for my technical documentation, system design insights, low-level design ideas, and coding patterns.
+Welcome to my blog! This repository serve as a hub for my technical documentation, system design insights, low-level design ideas, and coding patterns.
 
 ## Documentation Sections
 

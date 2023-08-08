@@ -1,7 +1,7 @@
 ---
 title: Low Level Design
 layout: default
-nav_order: 4.5
+nav_order: 3
 has_children: true
 ---
 
