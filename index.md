@@ -6,7 +6,8 @@ description: Exploring System Design, Low-Level Design, and Coding Patterns
 permalink: /
 ---
 
-**Hello**, <span style="color: yellow; font-weight: bold;">I am Saurabh.</span>
+<span style="font-size: 30px; font-weight: bold;">Hello, I am </span> <span style="color: #0a66c2;">Saurabh</span>
+
 
 I am a software architect with a specialization in cloud technologies. With a passion for problem-solving, distributed systems and AI enthusiast. 
 I strongly advocate for clean code to create maintainable and scalable software solutions.
